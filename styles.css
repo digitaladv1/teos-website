@@ -1,0 +1,29 @@
+body{
+  background-image: url('air jorden.png');
+
+text-align: center;
+}
+
+h1{
+background-color: white;
+padding:20px;
+text-align: center;
+}
+
+a{
+background-color: white;
+padding:20px;
+text-align: center;
+}
+
+img{
+  text-align: center;
+}
+
+li{
+background-color: white;
+padding:10px;
+text-align: left;
+width:50%;
+margin-left:25%;
+}
